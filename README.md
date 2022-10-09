@@ -1,8 +1,8 @@
 ﻿# Actividad_STI
  
- Alejandro Hernández Toro
- Laura Melissa Orozco Vera
- Paula Valentina Morales Santos
- Natalia Betancourt Millán
- Maria José Polanco Puerta
- Lina María Peralta Delgado
+ Alejandro Hernández Toro \n
+ Laura Melissa Orozco Vera \n
+ Paula Valentina Morales Santos \n
+ Natalia Betancourt Millán \n
+ Maria José Polanco Puerta \n
+ Lina María Peralta Delgado \n
